@@ -1,2 +1,2 @@
 # deep_learning_demo
-Demo coding for image recognition
+Self-implemented deep learning (image recognition) algo in daily learning
